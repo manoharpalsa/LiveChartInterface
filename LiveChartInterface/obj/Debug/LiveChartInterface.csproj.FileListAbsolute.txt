@@ -1,0 +1,64 @@
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\bin\Debug\LiveChartInterface.exe.config
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\bin\Debug\LiveChartInterface.exe
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\bin\Debug\LiveChartInterface.pdb
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\App.g.cs
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\LiveChartInterface_MarkupCompile.cache
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\LiveChartInterface_MarkupCompile.lref
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\LiveChartInterface.g.resources
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\LiveChartInterface.Properties.Resources.resources
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\LiveChartInterface.csproj.GenerateResource.cache
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\LiveChartInterface.exe
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\LiveChartInterface.pdb
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\bin\Debug\GraphConfig.xml
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\LiveChartInterface_Content.g.cs
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\bin\Debug\LiveCharts.dll
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\bin\Debug\LiveCharts.pdb
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\LiveChartInterface.csprojAssemblyReference.cache
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\WpfApp1\obj\Debug\LiveChartInterface.csproj.CopyComplete
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\bin\Debug\GraphConfig.xml
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\bin\Debug\LiveChartInterface.exe.config
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\bin\Debug\LiveChartInterface.exe
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\bin\Debug\LiveChartInterface.pdb
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\bin\Debug\LiveCharts.dll
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\bin\Debug\LiveCharts.pdb
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.csprojAssemblyReference.cache
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\MainWindow.g.cs
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\App.g.cs
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface_Content.g.cs
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface_MarkupCompile.cache
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface_MarkupCompile.lref
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\MainWindow.baml
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.g.resources
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.Properties.Resources.resources
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.csproj.GenerateResource.cache
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.csproj.CopyComplete
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.exe
+C:\Users\240026763\Desktop\Test Projects\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.pdb
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.csprojAssemblyReference.cache
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\MainWindow.g.cs
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\App.g.cs
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface_Content.g.cs
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface_MarkupCompile.cache
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface_MarkupCompile.lref
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\bin\Debug\GraphConfig.xml
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\bin\Debug\LiveChartInterface.exe.config
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\bin\Debug\LiveChartInterface.exe
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\bin\Debug\LiveChartInterface.pdb
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\bin\Debug\LiveCharts.dll
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\bin\Debug\LiveCharts.pdb
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\MainWindow.baml
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.g.resources
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.Properties.Resources.resources
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.csproj.GenerateResource.cache
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.csproj.CoreCompileInputs.cache
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.csproj.CopyComplete
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.exe
+C:\Users\manohar\Desktop\Haier\NEW\LiveChartInterface\LiveChartInterface\obj\Debug\LiveChartInterface.pdb
